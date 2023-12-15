@@ -1,7 +1,7 @@
 // This will make the text bigger when "Bigger" is pressed
 function BiggerClick(){
   // Change text then call alert
-  document.getElementById("text").style.fontSize = "24pt";
+  document.getElementById("text").style.fontSize = "4em";
   alert("Bigger!");
 }
 
